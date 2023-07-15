@@ -6,6 +6,9 @@ body {
 nav {
     display: flex;
     justify-content: space-between;
+    padding: 200px;
+    padding-top: 50px;
+    margin: 0 200px;
 }
 
 .text-primary {
@@ -47,4 +50,13 @@ nav li {
 nav a {
     text-decoration: none;
     color: #474747;
+}
+.header{
+    background-color:  #FFF8F3;
+    height: 700px;
+    width: auto;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+
 }
