@@ -116,11 +116,14 @@ main{
     background: #FFF8F3;
     margin: 130px 0;
 }
-.adout-info-container{
+.about-info-container{
     display: flex;
     justify-content: space-around;
 
 }
 .about-info{
     text-align: center;
+}
+#what-i-do-description{
+    padding: 30px 150px;
 }
